@@ -14,7 +14,7 @@ I'm a fourth-year Artificial Intelligence undergraduate at the **Posts and Telec
 
 | Category | Technologies |
 | --- | --- |
-| **Languages** | Python, C++, JavaScript, TypeScript |
+| **Languages** | Python, C++, JavaScript, TypeScript, Java |
 | **AI / Deep Learning** | PyTorch, Hugging Face Transformers, CNN / ResNet, LSTM, MediaPipe |
 | **NLP / GenAI** | PhoBERT, CRF, LLM integration, RAG, embeddings |
 | **Development** | React, Next.js, REST APIs, Git |
